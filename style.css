@@ -4,12 +4,13 @@ html {
 }
 
 body {
-  background-color: gray;
+  color: gray;
 }
 
 h3{
   color: green;
 }
+<<<<<<< HEAD
 
 .text-blue {
   color: blue;
@@ -17,4 +18,11 @@ h3{
 
 .text-red {
   color: red;
+=======
+#primer{
+  color: red;
+}
+.blue{
+color: blue;
+>>>>>>> 7db2947d0c293ba20cc858afb921aa04049b6b4b
 }
